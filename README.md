@@ -16,3 +16,7 @@ Country = "🇮🇳"
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Stats ⚡
+
+[![Example](https://github-stats-alpha.vercel.app/api/?username=vivektp "Example")](https://github.com/vivektp/readme-stats-github "Example")
