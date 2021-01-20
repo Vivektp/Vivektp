@@ -17,6 +17,8 @@ Country = "🇮🇳"
 - ⚡ Fun fact: ...
 -->
 
+[![telegram badge](https://img.shields.io/badge/Vivek-30302f?style=flat&logo=telegram)](https://t.me/SpeedyVKBOT)
+
 ### Stats ⚡
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vivekTP&show_icons=true&title_color=fff&icon_color=79ff79&include_all_commits=true&theme=onedark&cache_seconds=86400)
