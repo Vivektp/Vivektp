@@ -19,4 +19,4 @@ Country = "🇮🇳"
 
 ### Stats ⚡
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vivekTP&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vivekTP&show_icons=true&title_color=fff&icon_color=79ff79&include_all_commits=true&theme=onedark&cache_seconds=86400)
